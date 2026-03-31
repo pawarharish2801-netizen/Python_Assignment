@@ -1,0 +1,145 @@
+----------------------------------------------------------------------
+        Duplicate File Finder
+----------------------------------------------------------------------
+
+Directory Scanned: C:\Users\asus\Downloads\LB
+Log Created At: Fri Feb  6 15:19:22 2026
+Total Duplicate Sets: 18
+
+----------------------------------------------------------------------
+Duplicate Files:
+----------------------------------------------------------------------
+
+Duplicate Set 1:
+  C:\Users\asus\Downloads\LB\PPAFrame1.java
+  C:\Users\asus\Downloads\LB\Assignments\Assignment1Q4.C
+  C:\Users\asus\Downloads\LB\Assignments\Assignment56\Bhau.txt
+  C:\Users\asus\Downloads\LB\Assignments\Assignment56\PPA.txt
+  C:\Users\asus\Downloads\LB\Assignments\Assignment58\Demo.txt
+  C:\Users\asus\Downloads\LB\Packer UnPacker\program575.java
+  (Total: 6 files)
+
+Duplicate Set 2:
+  C:\Users\asus\Downloads\LB\program10.cpp
+  C:\Users\asus\Downloads\LB\cpp programs\program10.cpp
+  (Total: 2 files)
+
+Duplicate Set 3:
+  C:\Users\asus\Downloads\LB\program6.cpp
+  C:\Users\asus\Downloads\LB\cpp programs\program6.cpp
+  (Total: 2 files)
+
+Duplicate Set 4:
+  C:\Users\asus\Downloads\LB\program620.java
+  C:\Users\asus\Downloads\LB\program621.java
+  (Total: 2 files)
+
+Duplicate Set 5:
+  C:\Users\asus\Downloads\LB\.vscode\c_cpp_properties.json
+  C:\Users\asus\Downloads\LB\Assignments\.vscode\c_cpp_properties.json
+  C:\Users\asus\Downloads\LB\Assignments\Assignment23\.vscode\c_cpp_properties.json
+  C:\Users\asus\Downloads\LB\Assignments\Assignment24\.vscode\c_cpp_properties.json
+  C:\Users\asus\Downloads\LB\Assignments\Assignment25\.vscode\c_cpp_properties.json
+  C:\Users\asus\Downloads\LB\Assignments\Assignment43\.vscode\c_cpp_properties.json
+  C:\Users\asus\Downloads\LB\Assignments\Assignment44\.vscode\c_cpp_properties.json
+  C:\Users\asus\Downloads\LB\Assignments\Assignment45\.vscode\c_cpp_properties.json
+  C:\Users\asus\Downloads\LB\Assignments\Assignment46\.vscode\c_cpp_properties.json
+  C:\Users\asus\Downloads\LB\Assignments\Assignment47\.vscode\c_cpp_properties.json
+  C:\Users\asus\Downloads\LB\Assignments\Assignment48\.vscode\c_cpp_properties.json
+  C:\Users\asus\Downloads\LB\Assignments\Assignment49\.vscode\c_cpp_properties.json
+  C:\Users\asus\Downloads\LB\Assignments\Assignment50\.vscode\c_cpp_properties.json
+  C:\Users\asus\Downloads\LB\Assignments\Assignment51\.vscode\c_cpp_properties.json
+  C:\Users\asus\Downloads\LB\Assignments\Assignment52\.vscode\c_cpp_properties.json
+  C:\Users\asus\Downloads\LB\Assignments\Assignment53\.vscode\c_cpp_properties.json
+  C:\Users\asus\Downloads\LB\Assignments\Assignment54\.vscode\c_cpp_properties.json
+  C:\Users\asus\Downloads\LB\Assignments\Assignment55\.vscode\c_cpp_properties.json
+  C:\Users\asus\Downloads\LB\Assignments\Assignment61\.vscode\c_cpp_properties.json
+  C:\Users\asus\Downloads\LB\DS\.vscode\c_cpp_properties.json
+  C:\Users\asus\Downloads\LB\file_project\.vscode\c_cpp_properties.json
+  C:\Users\asus\Downloads\LB\JavaScript\.vscode\c_cpp_properties.json
+  (Total: 22 files)
+
+Duplicate Set 6:
+  C:\Users\asus\Downloads\LB\Assignments\Assignment23\.vscode\settings.json
+  C:\Users\asus\Downloads\LB\Assignments\Assignment24\.vscode\settings.json
+  C:\Users\asus\Downloads\LB\Assignments\Assignment25\.vscode\settings.json
+  C:\Users\asus\Downloads\LB\Assignments\Assignment43\.vscode\settings.json
+  C:\Users\asus\Downloads\LB\Assignments\Assignment44\.vscode\settings.json
+  C:\Users\asus\Downloads\LB\Assignments\Assignment45\.vscode\settings.json
+  C:\Users\asus\Downloads\LB\Assignments\Assignment46\.vscode\settings.json
+  C:\Users\asus\Downloads\LB\Assignments\Assignment47\.vscode\settings.json
+  C:\Users\asus\Downloads\LB\Assignments\Assignment48\.vscode\settings.json
+  C:\Users\asus\Downloads\LB\Assignments\Assignment49\.vscode\settings.json
+  C:\Users\asus\Downloads\LB\Assignments\Assignment50\.vscode\settings.json
+  C:\Users\asus\Downloads\LB\Assignments\Assignment53\.vscode\settings.json
+  C:\Users\asus\Downloads\LB\Assignments\Assignment54\.vscode\settings.json
+  C:\Users\asus\Downloads\LB\Assignments\Assignment55\.vscode\settings.json
+  C:\Users\asus\Downloads\LB\Assignments\Assignment61\.vscode\settings.json
+  C:\Users\asus\Downloads\LB\file_project\.vscode\settings.json
+  C:\Users\asus\Downloads\LB\JavaScript\.vscode\settings.json
+  (Total: 17 files)
+
+Duplicate Set 7:
+  C:\Users\asus\Downloads\LB\Assignments\Assignment45\Q5.c
+  C:\Users\asus\Downloads\LB\Assignments\Assignment46\Q2.c
+  (Total: 2 files)
+
+Duplicate Set 8:
+  C:\Users\asus\Downloads\LB\Assignments\Assignment51\Q2.cpp
+  C:\Users\asus\Downloads\LB\Assignments\Assignment51\Q3.cpp
+  (Total: 2 files)
+
+Duplicate Set 9:
+  C:\Users\asus\Downloads\LB\Assignments\Assignment51\.vscode\settings.json
+  C:\Users\asus\Downloads\LB\Assignments\Assignment52\.vscode\settings.json
+  (Total: 2 files)
+
+Duplicate Set 10:
+  C:\Users\asus\Downloads\LB\Assignments\Assignment57\Q1.java
+  C:\Users\asus\Downloads\LB\Assignments\Assignment57\S.txt
+  (Total: 2 files)
+
+Duplicate Set 11:
+  C:\Users\asus\Downloads\LB\Assignments\Assignment60\Q1.java
+  C:\Users\asus\Downloads\LB\Packer UnPacker\Q1.java
+  (Total: 2 files)
+
+Duplicate Set 12:
+  C:\Users\asus\Downloads\LB\Assignments\Assignment61\a.txt
+  C:\Users\asus\Downloads\LB\Assignments\Assignment61\Q3.java
+  (Total: 2 files)
+
+Duplicate Set 13:
+  C:\Users\asus\Downloads\LB\Assignments\Assignment61\b.txt
+  C:\Users\asus\Downloads\LB\Assignments\Assignment61\Q2.java
+  (Total: 2 files)
+
+Duplicate Set 14:
+  C:\Users\asus\Downloads\LB\Assignments\Assignment63\Bhau.txt
+  C:\Users\asus\Downloads\LB\Assignments\Assignment63\Jalwa.txt
+  C:\Users\asus\Downloads\LB\Assignments\Assignment63\Pro.txt
+  (Total: 3 files)
+
+Duplicate Set 15:
+  C:\Users\asus\Downloads\LB\DS\haribhau.cpp
+  C:\Users\asus\Downloads\LB\DS\program493.cpp
+  (Total: 2 files)
+
+Duplicate Set 16:
+  C:\Users\asus\Downloads\LB\DS\program432.cpp
+  C:\Users\asus\Downloads\LB\DS\program433.cpp
+  (Total: 2 files)
+
+Duplicate Set 17:
+  C:\Users\asus\Downloads\LB\file_project\LB.txt
+  C:\Users\asus\Downloads\LB\file_project\PPA.txt
+  (Total: 2 files)
+
+Duplicate Set 18:
+  C:\Users\asus\Downloads\LB\file_project\program526.c
+  C:\Users\asus\Downloads\LB\file_project\program527.c
+  (Total: 2 files)
+
+----------------------------------------------------------------------
+Total duplicate files found: 76
+----------------------------------------------------------------------
